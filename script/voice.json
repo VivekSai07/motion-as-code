@@ -1,0 +1,9 @@
+{
+ "_help": "Voice settings for tools/elevenlabs.py. Run 'make voices' to list voice IDs on your account. tts_replace changes the text sent to ElevenLabs only (pronunciation), not what appears on screen.",
+ "voice_id": "XrExE9yKIg1WjnnlVkGX",
+ "_voice_name": "Matilda - Knowledgable, Professional",
+ "model_id": "eleven_multilingual_v2",
+ "output_format": "mp3_44100_128",
+ "voice_settings": {"stability": 0.45, "similarity_boost": 0.75, "style": 0.25, "use_speaker_boost": true, "speed": 1.0},
+ "tts_replace": {"→": "to", "OpenVLA": "Open V-L-A", "RT-2-X": "R-T-2-X"}
+}

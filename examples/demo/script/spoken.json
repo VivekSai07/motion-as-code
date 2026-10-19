@@ -1,0 +1,33 @@
+{
+ "_help": "How a display word is SPOKEN, for the aligner. Key = the word exactly as written in script.txt (with its punctuation); value = list of spoken words in capitals. [] = silent (e.g. a dash). Plain numbers like 15 or 2026 are spelled out automatically.",
+ "5.5.": [
+  "FIVE",
+  "POINT",
+  "FIVE"
+ ],
+ "MCP.": [
+  "EM",
+  "SEE",
+  "PEE"
+ ],
+ "MP4": [
+  "EM",
+  "PEE",
+  "FOUR"
+ ],
+ "15-second": [
+  "FIFTEEN",
+  "SECOND"
+ ],
+ "3D": [
+  "THREE",
+  "DEE"
+ ],
+ "→": [
+  "TO"
+ ],
+ "colour.”": [
+  "COLOR"
+ ],
+ "—": []
+}

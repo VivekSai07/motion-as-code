@@ -1,0 +1,8 @@
+# OpenVLA explainer (~25 s). One on-screen line per row.
+What if a robot could see the world, understand what you say… and just act?
+This is OpenVLA.
+A 7-billion-parameter vision-language-action model, and it’s fully open source.
+It learned from 970,000 real robot episodes.
+Camera image in, your words in… robot actions out.
+And it beats RT-2-X, a closed model almost eight times its size.
+Pretty wild for something you can download today.

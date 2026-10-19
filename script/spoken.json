@@ -1,0 +1,9 @@
+{
+ "_help": "How a display word is SPOKEN, for the aligner. Key = the word exactly as written in script.txt (with its punctuation); value = list of spoken words in capitals. [] = silent (e.g. a dash). Plain numbers like 15 or 2026 are spelled out automatically.",
+ "OpenVLA.": ["OPEN", "VEE", "EL", "AY"],
+ "7-billion-parameter": ["SEVEN", "BILLION", "PARAMETER"],
+ "vision-language-action": ["VISION", "LANGUAGE", "ACTION"],
+ "970,000": ["NINE", "HUNDRED", "SEVENTY", "THOUSAND"],
+ "RT-2-X,": ["AR", "TEE", "TWO", "EX"],
+ "—": []
+}

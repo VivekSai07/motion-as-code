@@ -1,0 +1,451 @@
+{
+ "source": "align_vo.py (wav2vec2-base-960h CTC)",
+ "lines": [
+  {
+   "text": "What if a robot could see the world, understand what you say… and just act?",
+   "start": 0.04,
+   "end": 4.7,
+   "words": [
+    {
+     "w": "What",
+     "start": 0.04,
+     "end": 0.26
+    },
+    {
+     "w": "if",
+     "start": 0.26,
+     "end": 0.38
+    },
+    {
+     "w": "a",
+     "start": 0.38,
+     "end": 0.46
+    },
+    {
+     "w": "robot",
+     "start": 0.46,
+     "end": 0.86
+    },
+    {
+     "w": "could",
+     "start": 0.86,
+     "end": 1.04
+    },
+    {
+     "w": "see",
+     "start": 1.04,
+     "end": 1.2
+    },
+    {
+     "w": "the",
+     "start": 1.2,
+     "end": 1.32
+    },
+    {
+     "w": "world,",
+     "start": 1.32,
+     "end": 1.68
+    },
+    {
+     "w": "understand",
+     "start": 2.1,
+     "end": 2.6
+    },
+    {
+     "w": "what",
+     "start": 2.6,
+     "end": 2.72
+    },
+    {
+     "w": "you",
+     "start": 2.72,
+     "end": 2.92
+    },
+    {
+     "w": "say…",
+     "start": 2.92,
+     "end": 3.27
+    },
+    {
+     "w": "and",
+     "start": 4.01,
+     "end": 4.12
+    },
+    {
+     "w": "just",
+     "start": 4.12,
+     "end": 4.26
+    },
+    {
+     "w": "act?",
+     "start": 4.56,
+     "end": 4.7
+    }
+   ]
+  },
+  {
+   "text": "This is OpenVLA.",
+   "start": 5.76,
+   "end": 7.57,
+   "words": [
+    {
+     "w": "This",
+     "start": 5.76,
+     "end": 6.0
+    },
+    {
+     "w": "is",
+     "start": 6.0,
+     "end": 6.1
+    },
+    {
+     "w": "OpenVLA.",
+     "start": 6.2,
+     "end": 7.57,
+     "syl": [
+      [
+       6.2,
+       6.64
+      ],
+      [
+       6.64,
+       6.93
+      ],
+      [
+       6.93,
+       7.24
+      ],
+      [
+       7.24,
+       7.57
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "text": "A 7-billion-parameter vision-language-action model, and it’s fully open source.",
+   "start": 8.15,
+   "end": 12.83,
+   "words": [
+    {
+     "w": "A",
+     "start": 8.15,
+     "end": 8.36
+    },
+    {
+     "w": "7-billion-parameter",
+     "start": 8.36,
+     "end": 9.68,
+     "syl": [
+      [
+       8.36,
+       8.68
+      ],
+      [
+       8.68,
+       9.05
+      ],
+      [
+       9.05,
+       9.68
+      ]
+     ]
+    },
+    {
+     "w": "vision-language-action",
+     "start": 9.68,
+     "end": 10.86,
+     "syl": [
+      [
+       9.68,
+       10.04
+      ],
+      [
+       10.04,
+       10.46
+      ],
+      [
+       10.46,
+       10.86
+      ]
+     ]
+    },
+    {
+     "w": "model,",
+     "start": 10.86,
+     "end": 11.2
+    },
+    {
+     "w": "and",
+     "start": 11.45,
+     "end": 11.6
+    },
+    {
+     "w": "it’s",
+     "start": 11.6,
+     "end": 11.8
+    },
+    {
+     "w": "fully",
+     "start": 11.8,
+     "end": 12.1
+    },
+    {
+     "w": "open",
+     "start": 12.1,
+     "end": 12.42
+    },
+    {
+     "w": "source.",
+     "start": 12.42,
+     "end": 12.83
+    }
+   ]
+  },
+  {
+   "text": "It learned from 970,000 real robot episodes.",
+   "start": 13.47,
+   "end": 17.18,
+   "words": [
+    {
+     "w": "It",
+     "start": 13.47,
+     "end": 13.62
+    },
+    {
+     "w": "learned",
+     "start": 13.62,
+     "end": 13.92
+    },
+    {
+     "w": "from",
+     "start": 13.92,
+     "end": 14.2
+    },
+    {
+     "w": "970,000",
+     "start": 14.2,
+     "end": 15.84,
+     "syl": [
+      [
+       14.2,
+       14.48
+      ],
+      [
+       14.48,
+       14.84
+      ],
+      [
+       14.84,
+       15.28
+      ],
+      [
+       15.28,
+       15.84
+      ]
+     ]
+    },
+    {
+     "w": "real",
+     "start": 15.84,
+     "end": 16.16
+    },
+    {
+     "w": "robot",
+     "start": 16.16,
+     "end": 16.56
+    },
+    {
+     "w": "episodes.",
+     "start": 16.56,
+     "end": 17.18
+    }
+   ]
+  },
+  {
+   "text": "Camera image in, your words in… robot actions out.",
+   "start": 17.78,
+   "end": 21.78,
+   "words": [
+    {
+     "w": "Camera",
+     "start": 17.78,
+     "end": 18.2
+    },
+    {
+     "w": "image",
+     "start": 18.2,
+     "end": 18.44
+    },
+    {
+     "w": "in,",
+     "start": 18.44,
+     "end": 18.79
+    },
+    {
+     "w": "your",
+     "start": 19.11,
+     "end": 19.36
+    },
+    {
+     "w": "words",
+     "start": 19.36,
+     "end": 19.78
+    },
+    {
+     "w": "in…",
+     "start": 19.78,
+     "end": 19.98
+    },
+    {
+     "w": "robot",
+     "start": 20.55,
+     "end": 21.12
+    },
+    {
+     "w": "actions",
+     "start": 21.12,
+     "end": 21.66
+    },
+    {
+     "w": "out.",
+     "start": 21.66,
+     "end": 21.78
+    }
+   ]
+  },
+  {
+   "text": "And it beats RT-2-X, a closed model almost eight times its size.",
+   "start": 22.44,
+   "end": 27.32,
+   "words": [
+    {
+     "w": "And",
+     "start": 22.44,
+     "end": 22.58
+    },
+    {
+     "w": "it",
+     "start": 22.58,
+     "end": 22.7
+    },
+    {
+     "w": "beats",
+     "start": 22.7,
+     "end": 23.06
+    },
+    {
+     "w": "RT-2-X,",
+     "start": 23.06,
+     "end": 24.0,
+     "syl": [
+      [
+       23.06,
+       23.3
+      ],
+      [
+       23.3,
+       23.58
+      ],
+      [
+       23.58,
+       23.92
+      ],
+      [
+       23.92,
+       24.0
+      ]
+     ]
+    },
+    {
+     "w": "a",
+     "start": 24.65,
+     "end": 24.76
+    },
+    {
+     "w": "closed",
+     "start": 24.76,
+     "end": 25.18
+    },
+    {
+     "w": "model",
+     "start": 25.18,
+     "end": 25.64
+    },
+    {
+     "w": "almost",
+     "start": 25.64,
+     "end": 25.97
+    },
+    {
+     "w": "eight",
+     "start": 26.1,
+     "end": 26.32
+    },
+    {
+     "w": "times",
+     "start": 26.32,
+     "end": 26.7
+    },
+    {
+     "w": "its",
+     "start": 26.7,
+     "end": 26.84
+    },
+    {
+     "w": "size.",
+     "start": 26.84,
+     "end": 27.32
+    }
+   ]
+  },
+  {
+   "text": "Pretty wild for something you can download today.",
+   "start": 27.94,
+   "end": 30.14,
+   "words": [
+    {
+     "w": "Pretty",
+     "start": 27.94,
+     "end": 28.22
+    },
+    {
+     "w": "wild",
+     "start": 28.22,
+     "end": 28.56
+    },
+    {
+     "w": "for",
+     "start": 28.56,
+     "end": 28.72
+    },
+    {
+     "w": "something",
+     "start": 28.72,
+     "end": 29.02
+    },
+    {
+     "w": "you",
+     "start": 29.02,
+     "end": 29.14
+    },
+    {
+     "w": "can",
+     "start": 29.14,
+     "end": 29.3
+    },
+    {
+     "w": "download",
+     "start": 29.3,
+     "end": 29.73
+    },
+    {
+     "w": "today.",
+     "start": 29.73,
+     "end": 30.14
+    }
+   ]
+  }
+ ]
+}

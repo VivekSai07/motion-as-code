@@ -1,0 +1,27 @@
+# ---- never commit
+# your ElevenLabs API key
+.env
+# per-machine graphics settings, written by setup
+render.env
+setup.log
+.DS_Store
+Thumbs.db
+
+# ---- installed / downloaded by setup (regenerable, large)
+node_modules/
+.bun-cache/
+.vite/
+# alignment model, downloaded by tools/get_model.py
+analysis/models/*.onnx
+analysis/models/*.part
+analysis/.venv/
+analysis/.cache/
+__pycache__/
+
+# ---- outputs (renders, mixes, logs)
+out/
+# previous take, kept locally by tools/elevenlabs.py
+audio/voiceover.prev.mp3
+analysis/stems/
+analysis/work/
+analysis/qa/

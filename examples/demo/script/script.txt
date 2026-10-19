@@ -1,0 +1,25 @@
+# One display line per row. Lines starting with # are ignored.
+# Edit this, then run:  .\make.ps1 voice   and   .\make.ps1 align
+What if I told you… you can create motion graphics like this without even opening After Effects?
+And no — I’m not talking about an After Effects MCP.
+This is Claude Opus 5.5.
+Instead of controlling After Effects, you basically tell Claude what you want the animation to look like.
+For example:
+“Create a 15-second cinematic motion graphics sequence with kinetic typography, smooth shape transitions, 3D elements and seamless camera movement.”
+And this is where it gets crazy.
+Claude doesn’t actually generate an MP4 directly.
+It writes the animation itself as code.
+The text, shapes, positions, easing, transitions, particles — basically every visual element is defined mathematically over time.
+Then that code is rendered frame by frame and turned into a video.
+So instead of: After Effects → layers → keyframes → graph editor → render
+you’re essentially doing: Prompt → code → render → video.
+And because the animation is procedural, you can literally tell Claude:
+“Make this transition smoother.”
+“Change the colour.”
+“Slow this section down.”
+“Make the ending seamlessly loop into the beginning.”
+And it can modify the underlying animation instead of you manually moving hundreds of keyframes.
+Does this replace After Effects?
+Not really.
+But for certain types of motion graphics…
+the fact that you can go from an idea to a working animation without touching a timeline is pretty insane.
